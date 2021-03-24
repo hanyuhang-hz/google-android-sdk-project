@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EX03_25</string>
+    <string name="hello">在EX03_25这个Activity调用不同Package的Activity</string>
+</resources>

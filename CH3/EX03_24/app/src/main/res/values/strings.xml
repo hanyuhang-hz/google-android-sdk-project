@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EX03_24</string>
+    <string name="dlg_exit">Exit</string>
+    <string name="err_not_support">Not Support</string>
+</resources>

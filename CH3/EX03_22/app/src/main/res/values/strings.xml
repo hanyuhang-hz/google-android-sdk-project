@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EX03_22</string>
+    <string name="str1">请输入密码：</string>
+    <string name="str2">显示密码</string>
+</resources>
