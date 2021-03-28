@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EX04_23</string>
+    <string name="str_button1">缩小</string>
+    <string name="str_button2">放大</string>
+</resources>

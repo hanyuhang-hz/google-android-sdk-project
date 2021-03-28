@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+    <TextView
+        android:id="@+id/myTextView1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical|center_horizontal"
+        />
+    <com.example.ex04_33.MyViewGroup
+        xmlns:app="http://schemas.android.com/apk/res/com.example.ex04_33"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/MyViewGroup1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        app:view_screen="1">
+        <include android:id="@+id/layoutLeft" layout="@layout/layout_left" />
+        <include android:id="@+id/layoutCenter" layout="@layout/layout_center" />
+        <include android:id="@+id/layoutRight" layout="@layout/layout_right" />
+    </com.example.ex04_33.MyViewGroup>
+</LinearLayout>

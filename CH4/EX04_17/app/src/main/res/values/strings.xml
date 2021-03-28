@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">EX04_17</string>
+    <string name="str_button1">按我开始执行Progress</string>
+    <string name="str_progress_start">载入中～请稍后</string>
+    <string name="str_progress_done">执行Progress完毕</string>
+</resources>
